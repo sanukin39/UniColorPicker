@@ -31,7 +31,7 @@ public class ColorPickerExample : MonoBehaviour
 ```
 
 ## Install
-use unitypackage at release page
+use unitypackage at [release](https://github.com/sanukin39/UniColorPicker/releases/) page
 
 ## Licence
 [MIT](https://github.com/sanukin39/UniColorPicker/blob/master/LICENSE)
