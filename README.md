@@ -4,6 +4,7 @@
 Simple Color Picker For Unity. It works on uGUI and support movile platforms.
 
 ## Demo
+![Demo](https://github.com/sanukin39/UniColorPicker/blob/master/Demo/colorpickerdemo.gif)
 
 ## Requirement
 Unity 2017 or higher
