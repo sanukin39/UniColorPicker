@@ -10,6 +10,10 @@ Simple Color Picker For Unity. It works on uGUI and supports movile platforms.
 Unity 2017 or higher
 
 ## Usage
+### Add color picker to scene
+Add UniColorPicker/UniColorPicker.prefab into canvas at scene.
+
+### How to get/set color
 ```csharp
 using UniColorPicker;
 using UnityEngine;
