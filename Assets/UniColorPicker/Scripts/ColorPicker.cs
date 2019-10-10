@@ -20,7 +20,7 @@ namespace UniColorPicker
 
         public Color Color
         {
-            get => Color.HSVToRGB(_hue, _value, _saturation);
+            get => Color.HSVToRGB(_hue, _saturation, _value);
             set
             {
                 Color.RGBToHSV(value, out _hue, out _value, out _saturation);
