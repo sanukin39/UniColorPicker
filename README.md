@@ -33,7 +33,7 @@ public class ColorPickerExample : MonoBehaviour
 use unitypackage at release page
 
 ## Licence
-MIT
+[MIT](https://github.com/sanukin39/UniColorPicker/blob/master/LICENSE)
 
 ## Author
-sanukin39
+[sanukin39](https://github.com/sanukin39)
