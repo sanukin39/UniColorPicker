@@ -1,7 +1,7 @@
 # UniColorPicker
 
 ## Overview
-Simple Color Picker For Unity. It works on uGUI and supports movile platforms.
+Simple Color Picker For Unity. It works on uGUI and supports mobile platforms.
 
 ## Demo
 ![Demo](https://github.com/sanukin39/UniColorPicker/blob/master/Demo/colorpickerdemo.gif)
